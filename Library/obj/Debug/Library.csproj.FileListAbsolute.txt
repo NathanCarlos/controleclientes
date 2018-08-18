@@ -1,0 +1,34 @@
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\WebApplication1\Library\bin\Debug\Library.dll
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\WebApplication1\Library\bin\Debug\Library.pdb
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\WebApplication1\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\WebApplication1\Library\obj\Debug\Library.dll
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\WebApplication1\Library\obj\Debug\Library.pdb
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\TrabalhoDS1-v1\Library\bin\Debug\Library.dll
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\TrabalhoDS1-v1\Library\bin\Debug\Library.pdb
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\TrabalhoDS1-v1\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\TrabalhoDS1-v1\Library\obj\Debug\Library.dll
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\TrabalhoDS1-v1\Library\obj\Debug\Library.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v2\Library\bin\Debug\Library.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v2\Library\bin\Debug\Library.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v2\Library\obj\Debug\Library.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v2\Library\obj\Debug\Library.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v3\Library\bin\Debug\Library.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v3\Library\bin\Debug\Library.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v3\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v3\Library\obj\Debug\Library.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v3\Library\obj\Debug\Library.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v4\Library\bin\Debug\Library.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v4\Library\bin\Debug\Library.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v4\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v4\Library\obj\Debug\Library.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v4\Library\obj\Debug\Library.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v5\Library\bin\Debug\Library.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v5\Library\bin\Debug\Library.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v5\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v5\Library\obj\Debug\Library.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v5\Library\obj\Debug\Library.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v10 - Final Project\Library\bin\Debug\Library.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v10 - Final Project\Library\bin\Debug\Library.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v10 - Final Project\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v10 - Final Project\Library\obj\Debug\Library.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v10 - Final Project\Library\obj\Debug\Library.pdb

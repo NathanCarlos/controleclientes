@@ -1,0 +1,72 @@
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Library.dll
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Library.pdb
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\CadastroClientes.csprojResolveAssemblyReference.cache
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\TrabalhoDS1-v1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\TrabalhoDS1-v1\WebApplication1\bin\WebApplication1.dll
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\TrabalhoDS1-v1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\TrabalhoDS1-v1\WebApplication1\bin\Library.dll
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\TrabalhoDS1-v1\WebApplication1\bin\Library.pdb
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\TrabalhoDS1-v1\WebApplication1\obj\Debug\CadastroClientes.csprojResolveAssemblyReference.cache
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\TrabalhoDS1-v1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\LAB02-INFO\Documents\Visual Studio 2013\Projects\TrabalhoDS1-v1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v2\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v2\WebApplication1\bin\WebApplication1.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v2\WebApplication1\bin\WebApplication1.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v2\WebApplication1\bin\Library.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v2\WebApplication1\bin\Library.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v2\WebApplication1\obj\Debug\CadastroClientes.csprojResolveAssemblyReference.cache
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v2\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v2\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v3\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v3\WebApplication1\bin\WebApplication1.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v3\WebApplication1\bin\WebApplication1.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v3\WebApplication1\bin\Library.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v3\WebApplication1\bin\Library.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v3\WebApplication1\obj\Debug\CadastroClientes.csprojResolveAssemblyReference.cache
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v3\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v3\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v4\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v4\WebApplication1\bin\WebApplication1.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v4\WebApplication1\bin\WebApplication1.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v4\WebApplication1\bin\Library.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v4\WebApplication1\bin\Library.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v4\WebApplication1\obj\Debug\CadastroClientes.csprojResolveAssemblyReference.cache
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v4\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v4\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v5\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v5\WebApplication1\bin\WebApplication1.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v5\WebApplication1\bin\WebApplication1.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v5\WebApplication1\bin\Library.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v5\WebApplication1\bin\Library.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v5\WebApplication1\obj\Debug\CadastroClientes.csprojResolveAssemblyReference.cache
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v5\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v5\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v6\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v6\WebApplication1\bin\WebApplication1.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v6\WebApplication1\bin\WebApplication1.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v6\WebApplication1\bin\Library.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v6\WebApplication1\bin\Library.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v6\WebApplication1\obj\Debug\CadastroClientes.csprojResolveAssemblyReference.cache
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v6\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v6\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v8\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v8\WebApplication1\bin\WebApplication1.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v8\WebApplication1\bin\WebApplication1.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v8\WebApplication1\bin\Library.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v8\WebApplication1\bin\Library.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v8\WebApplication1\obj\Debug\CadastroClientes.csprojResolveAssemblyReference.cache
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v8\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v8\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v10 - Final Project\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v10 - Final Project\WebApplication1\bin\WebApplication1.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v10 - Final Project\WebApplication1\bin\WebApplication1.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v10 - Final Project\WebApplication1\bin\Library.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v10 - Final Project\WebApplication1\bin\Library.pdb
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v10 - Final Project\WebApplication1\obj\Debug\CadastroClientes.csprojResolveAssemblyReference.cache
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v10 - Final Project\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\LAB02-INFO\Desktop\TrabalhoDS1-v10 - Final Project\WebApplication1\obj\Debug\WebApplication1.pdb
